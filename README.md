@@ -69,18 +69,26 @@
 | 🟠 04 | Build real-world projects |
 | 🔴 05 | Become a professional developer |
 
+
 ---
 
-## 🌌 Contribution Graph
-
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrutiidev114&bg_color=0d1117&color=c084fc&line=9333ea&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
+<a href="https://github.com/Shrutiidev114/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/shruti-kumari-499249393">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:ishrutiiii675@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -88,7 +96,7 @@
 
 *"The best way to predict the future is to create it."*
 
-<a href="https://github.com/Shrutiidev114">
+<a href="https://github.com/Shrutiidev114?tab=repositories">
 <img src="https://img.shields.io/badge/Explore%20My%20Repositories-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
